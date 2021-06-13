@@ -1,6 +1,6 @@
 # Hey there!
 
-> Discord: 1080p#7798
+> Discord: 1080p#9999
 
 #
 ### Don't be shy if you have any questions.
