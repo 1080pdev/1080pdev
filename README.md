@@ -2,6 +2,8 @@
 
 > Discord: 1080p#9999
 
+[![1080p's GitHub stats](https://github-readme-stats.vercel.app/api?username=1080pdev&theme=dark&count_private=true)]
+
 #
 ### Don't be shy if you have any questions.
 #
